@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://wallpapercave.com/wp/wp10385493.png)
 <h1 align="center">Opa 👋, Pedro aqui!</h1>
 <h3 align="center">Apenas um engenheiro de Software vindo diretamente da Bahia</h3>
 
