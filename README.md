@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pedroigor-dev](https://github.com/pedroigor-dev)
 
-- 📝 I regularly write articles on [Coming soon...](Coming soon...)
+- 📝 I regularly write articles on (Coming soon...)
 
 - 💬 Ask me about **Next.js, NestJS, APIs REST, Backend Architecture, JavaScript/TypeScript**
 
