@@ -7,7 +7,7 @@
 
 <img align="right" alt="coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔭 Construindo interfaces cinematográficas e backends escaláveis
+- 🔭 Construindo interfaces e backends escaláveis
 - 🛠️ Stack principal: **TypeScript** e **Java 17**
 - 🧱 Fã de arquitetura modular e código limpo
 - 🚀 Sempre explorando novas tecnologias e padrões
