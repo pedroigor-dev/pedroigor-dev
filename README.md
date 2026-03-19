@@ -9,7 +9,7 @@
 
 <img align="right" alt="coding" width="360" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.gif"/>
 
-- 🔭 Atualmente construindo interfaces cinematográficas e backends escaláveis
+- 🔭 Atualmente construindo interfaces e backends escaláveis
 - 🛠️ Stack principal: **TypeScript** e **Java 17**
 - 🧱 Fã de arquitetura modular e código limpo
 - ⚡ Curiosidade: uso JetBrains pra tudo — IntelliJ, WebStorm e DataGrip
