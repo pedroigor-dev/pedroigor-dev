@@ -5,7 +5,7 @@
 
 <br/>
 
-<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="340" src="https://assets-v2.lottiefiles.com/a/62eb9286-116f-11ee-aebb-67971e01a891/vY0qVbBRRk.gif"/>
 
 - 🔭 Construindo interfaces e backends escaláveis
 - 🛠️ Stack principal: **TypeScript** e **Java**
