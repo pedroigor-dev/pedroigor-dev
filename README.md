@@ -2,7 +2,7 @@
 <h1 align="center">Opa 👋, Pedro aqui!</h1>
 <h3 align="center">Apenas um engenheiro de Software vindo diretamente da Bahia</h3>
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/dqLamfe9y5b9M5FDj7">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDltMmpyZ2Iza3AxZm5kMW0zM3Vrdm0weDVjd3MzN3djeGc1c2l0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lYCASaZPo4Cr6AR0Q0/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
