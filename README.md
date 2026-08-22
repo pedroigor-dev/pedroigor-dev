@@ -1,82 +1,73 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:188fff&height=200&section=header&text=Pedro%20Igor&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Salvador%2C%20BA%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=58&descSize=18&animation=fadeIn"/>
-
-<h1 align="center">Opa! 👋 Pedro aqui</h1>
-<h3 align="center">Engenheiro de Software direto de Salvador, Bahia 🇧🇷</h3>
-
-<br/>
-
-<img align="right" alt="coding" width="340" src="https://assets-v2.lottiefiles.com/a/62eb9286-116f-11ee-aebb-67971e01a891/vY0qVbBRRk.gif"/>
-
-- 🔭 Construindo interfaces e backends escaláveis
-- 🛠️ Stack principal: **TypeScript** e **Java**
-- 🧱 Fã de arquitetura modular e código limpo
-- 🚀 Sempre explorando novas tecnologias e padrões
-- ⚡ Curiosidade: uso JetBrains pra tudo — IntelliJ, WebStorm e DataGrip
-
-<br/><br/><br/><br/>
-
----
-
-<h3 align="left">🔗 Conecte-se comigo</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Pedro Igor, Software Engineer" />
 </p>
 
----
-
-<h3 align="left">🛠️ Linguagens e Ferramentas</h3>
-
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
-    <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.svg" alt="jetbrains" width="40" height="40"/>
-  </a>
+<p align="center">
+  Desenvolvo aplicações com foco em regras de negócio bem modeladas, integração entre serviços e código que outra pessoa consiga manter.
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/pedroigor-dev?tab=repositories"><img src="https://img.shields.io/badge/VER_PROJETOS-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos" /></a>
+  <a href="https://github.com/pedroigor-dev/projeto-lastro"><img src="https://img.shields.io/badge/PROJETO_EM_DESTAQUE-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Projeto em destaque" /></a>
+</p>
 
-<h3 align="left">📊 GitHub Stats</h3>
+## Sobre mim
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroigor-dev&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&title_color=188fff&text_color=8b949e"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroigor-dev&show_icons=true&locale=en&theme=github_dark&hide_border=true&title_color=188fff&icon_color=188fff&text_color=8b949e"/>
-</div>
+Sou desenvolvedor full stack em Salvador, Bahia. Hoje concentro meus estudos e projetos em Java com Spring Boot no backend e Angular com TypeScript no frontend.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=pedroigor-dev&theme=github-dark-blue&hide_border=true&ring=188fff&fire=188fff&currStreakLabel=188fff" alt="pedroigor-dev" />
-</div>
+Gosto da parte da engenharia que aparece além da tela: decisões arquiteturais, testes, segurança, observabilidade, automação de entrega e documentação que explica os motivos por trás do código. Nos projetos mais recentes, comecei a trabalhar com especificações antes da implementação e uso IA nas tarefas em que ela realmente poupa tempo. A decisão final continua sendo minha.
 
----
+## Projetos em destaque
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedroigor-dev&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=188fff&style=flat" alt="pedroigor-dev" />
-</div>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/pedroigor-dev/projeto-lastro">Projeto Lastro</a></h3>
+      <p>Hub de entrega orientada por especificação, com critérios de aceite, quality gates e apoio a processos de release.</p>
+      <p><code>Java 21</code> <code>Spring Boot</code> <code>Angular</code> <code>MCP</code></p>
+      <a href="https://github.com/pedroigor-dev/projeto-lastro#readme">Arquitetura e POC →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/pedroigor-dev/sentinel-risk-service">Sentinel</a></h3>
+      <p>Microsserviço antifraude explicável, preparado para processar eventos com idempotência e consistência transacional.</p>
+      <p><code>Java 21</code> <code>Kafka</code> <code>PostgreSQL</code> <code>Outbox</code></p>
+      <a href="https://github.com/pedroigor-dev/sentinel-risk-service#readme">Decisões técnicas →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/pedroigor-dev/aurora-bank-cli">Aurora Bank</a></h3>
+      <p>Aplicação bancária em linha de comando com arquitetura hexagonal, concorrência, investimentos e testes automatizados.</p>
+      <p><code>Java 21</code> <code>Arquitetura hexagonal</code> <code>JUnit</code></p>
+      <a href="https://github.com/pedroigor-dev/aurora-bank-cli#readme">Código e documentação →</a>
+    </td>
+  </tr>
+</table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:188fff,50:1a3a5c,100:0d1117&height=120&section=footer"/>
+## Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/Java_21-0D1117?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Angular-0D1117?style=flat-square&logo=angular&logoColor=DD0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=dotnet&logoColor=512BD4" alt="C# e .NET" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-0D1117?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/SonarQube-0D1117?style=flat-square&logo=sonarqubecloud&logoColor=4E9BCD" alt="SonarQube" />
+</p>
+
+## Como eu trabalho
+
+- Especifico o comportamento e os critérios de aceite antes de implementar.
+- Trato testes, análise estática e segurança como parte da entrega.
+- Registro decisões e trade-offs para que o projeto continue compreensível depois do primeiro commit.
+- Uso IA para acelerar pesquisa, revisão e tarefas repetitivas, sem terceirizar decisões técnicas.
+
+## Outros trabalhos
+
+Também mantenho projetos em C#/.NET, experiências visuais com TypeScript e estudos de arquitetura. O histórico completo está na aba [Repositórios](https://github.com/pedroigor-dev?tab=repositories).
+
+<p align="center">
+  <sub>Meu foco atual: transformar requisito solto em decisão testável.</sub>
+</p>
