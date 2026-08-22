@@ -1,0 +1,61 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Pedro Igor, Software Engineer</title>
+  <desc id="description">Banner profissional em preto, branco e azul com foco em Java, Spring Boot e Angular.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.62" stop-color="#111827"/>
+      <stop offset="1" stop-color="#172033"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="724" y1="51" x2="1105" y2="252" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0.28"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.04"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="19" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+
+  <rect x="66" y="57" width="42" height="4" rx="2" fill="#58A6FF"/>
+  <text x="66" y="130" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">Pedro Igor</text>
+  <text x="69" y="171" fill="#B6C2D2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="0.4">SOFTWARE ENGINEER</text>
+
+  <rect x="66" y="206" width="342" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.1"/>
+  <text x="88" y="232" fill="#D8E1EC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500">Java  ·  Spring Boot  ·  Angular</text>
+  <text x="447" y="232" fill="#7D8CA3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Salvador, BA</text>
+
+  <g stroke="url(#accent)" stroke-width="1.5">
+    <path d="M746 94L834 54L915 105L1010 63L1104 119"/>
+    <path d="M746 94L786 176L887 216L978 165L1104 119"/>
+    <path d="M786 176L915 105L978 165"/>
+    <path d="M834 54L887 216"/>
+    <path d="M915 105L1065 235"/>
+    <path d="M887 216L1065 235"/>
+  </g>
+
+  <g fill="#58A6FF">
+    <circle cx="746" cy="94" r="4"/>
+    <circle cx="834" cy="54" r="4"/>
+    <circle cx="915" cy="105" r="5"/>
+    <circle cx="1010" cy="63" r="4"/>
+    <circle cx="1104" cy="119" r="5"/>
+    <circle cx="786" cy="176" r="5"/>
+    <circle cx="887" cy="216" r="5"/>
+    <circle cx="978" cy="165" r="4"/>
+    <circle cx="1065" cy="235" r="4"/>
+  </g>
+
+  <g fill="#58A6FF" opacity="0.22" filter="url(#glow)">
+    <circle cx="915" cy="105" r="15"/>
+    <circle cx="887" cy="216" r="14"/>
+    <circle cx="1104" cy="119" r="14"/>
+  </g>
+</svg>
