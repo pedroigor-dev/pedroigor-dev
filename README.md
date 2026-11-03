@@ -15,7 +15,7 @@
 
 Sou desenvolvedor full stack em Salvador, Bahia. Hoje concentro meus estudos e projetos em Java com Spring Boot no backend e Angular com TypeScript no frontend.
 
-Gosto da parte da engenharia que aparece além da tela: decisões arquiteturais, testes, segurança, observabilidade, automação de entrega e documentação que explica os motivos por trás do código. Nos projetos mais recentes, comecei a trabalhar com especificações antes da implementação e uso IA nas tarefas em que ela realmente poupa tempo. A decisão final continua sendo minha.
+Gosto da parte da engenharia que aparece além da tela: decisões arquiteturais, testes, segurança, observabilidade, automação de entrega e documentação que explica os motivos por trás do código. Nos projetos mais recentes, comecei a trabalhar com especificações antes da implementação, relacionando critérios de aceite aos testes e às decisões de release.
 
 ## Projetos em destaque
 
@@ -24,7 +24,7 @@ Gosto da parte da engenharia que aparece além da tela: decisões arquiteturais,
     <td width="33%" valign="top">
       <h3><a href="https://github.com/pedroigor-dev/projeto-lastro">Projeto Lastro</a></h3>
       <p>Hub de entrega orientada por especificação, com critérios de aceite, quality gates e apoio a processos de release.</p>
-      <p><code>Java 21</code> <code>Spring Boot</code> <code>Angular</code> <code>MCP</code></p>
+      <p><code>Java 21</code> <code>Spring Boot</code> <code>Angular</code> <code>PostgreSQL</code></p>
       <a href="https://github.com/pedroigor-dev/projeto-lastro#readme">Arquitetura e POC →</a>
     </td>
     <td width="33%" valign="top">
@@ -62,7 +62,6 @@ Gosto da parte da engenharia que aparece além da tela: decisões arquiteturais,
 - Especifico o comportamento e os critérios de aceite antes de implementar.
 - Trato testes, análise estática e segurança como parte da entrega.
 - Registro decisões e trade-offs para que o projeto continue compreensível depois do primeiro commit.
-- Uso IA para acelerar pesquisa, revisão e tarefas repetitivas, sem terceirizar decisões técnicas.
 
 ## Outros trabalhos
 
